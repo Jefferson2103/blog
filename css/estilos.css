@@ -4,3 +4,11 @@ body{
     color: deeppink;
     background-color: black;
 }
+
+.cabecera{
+    color: brown;
+    cursor: default;
+}
+.cabecera:hover{
+    color: pink;
+}
